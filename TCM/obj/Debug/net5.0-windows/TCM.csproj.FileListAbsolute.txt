@@ -1,0 +1,98 @@
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.exe
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.deps.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.dev.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Properties.Resources.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.GenerateResource.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfoInputs.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfo.cs
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CoreCompileInputs.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.genruntimeconfig.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Login.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CopyComplete
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Inicio.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.MenuPrincipal.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Cliente.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Pets.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Serviços.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.Especialidades.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM\TCM\TCM\obj\Debug\net5.0-windows\TCM.csprojAssemblyReference.cache
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.exe
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.deps.json
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.json
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.dev.json
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csprojAssemblyReference.cache
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Cliente.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Especialidades.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Inicio.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Login.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.MenuPrincipal.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Pets.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Properties.Resources.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Serviços.resources
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.GenerateResource.cache
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfoInputs.cache
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfo.cs
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CoreCompileInputs.cache
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CopyComplete
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\Downloads\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.genruntimeconfig.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.exe
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.deps.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.runtimeconfig.dev.json
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Cliente.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Inicio.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Login.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.MenuPrincipal.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Pets.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Properties.Resources.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Serviços.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.GenerateResource.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfoInputs.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.AssemblyInfo.cs
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CoreCompileInputs.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csproj.CopyComplete
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\ref\TCM.dll
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.pdb
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.genruntimeconfig.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Delivery.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.csprojAssemblyReference.cache
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Finalizar.resources
+C:\Users\Aléxia\OneDrive - Etec Centro Paula Souza\Desktop\TCM (2)\TCM\TCM\obj\Debug\net5.0-windows\TCM.Tela_de_Splash.resources
